@@ -14,4 +14,8 @@
 |  |
 | ------- |
 | [0777-toeplitz-matrix](https://github.com/Rekhapatil4444/LeetCode/tree/master/0777-toeplitz-matrix) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Rekhapatil4444/LeetCode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
