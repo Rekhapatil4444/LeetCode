@@ -7,6 +7,7 @@
 | [0118-pascals-triangle](https://github.com/Rekhapatil4444/LeetCode/tree/master/0118-pascals-triangle) |
 | [0777-toeplitz-matrix](https://github.com/Rekhapatil4444/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Rekhapatil4444/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Rekhapatil4444/LeetCode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -41,4 +42,9 @@
 |  |
 | ------- |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Rekhapatil4444/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Rekhapatil4444/LeetCode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+## Greedy
+|  |
+| ------- |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Rekhapatil4444/LeetCode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 <!---LeetCode Topics End-->
