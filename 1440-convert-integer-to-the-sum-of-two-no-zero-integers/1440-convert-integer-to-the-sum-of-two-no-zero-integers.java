@@ -12,7 +12,7 @@
     return new int[0];
   }
 
-  private boolean hasZero(int num) {
+  public boolean hasZero(int num) {
     while (num > 0) {
       if (num % 10 == 0) return true;
       num /= 10;
