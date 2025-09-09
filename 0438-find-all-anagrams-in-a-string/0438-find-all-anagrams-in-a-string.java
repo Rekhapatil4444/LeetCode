@@ -1,17 +1,17 @@
 class Solution {
-    public boolean fun(HashMap<Character,Integer>hma,HashMap<Character,Integer>hmb)
+    public boolean fun(HashMap<Character,Integer>hms,HashMap<Character,Integer>hmp)
     {
-        if(hma.size()!=hmb.size())
+        if(hms.size()!=hmp.size())
         {
             return false;
         }
-        for(char i:hma.keySet()){
-            if(!hmb.containsKey(i))
+        for(char i:hmp.keySet()){
+            if(!hms.containsKey(i))
             {
                 return false;
             }
-            int a=hma.get(i);
-            int b=hmb.get(i);
+            int a=hmp.get(i);
+            int b=hms.get(i);
             if(a!=b){
                 return false;
             }
