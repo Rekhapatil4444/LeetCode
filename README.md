@@ -33,18 +33,21 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rekhapatil4444/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Rekhapatil4444/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0940-fruit-into-baskets](https://github.com/Rekhapatil4444/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Rekhapatil4444/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rekhapatil4444/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Rekhapatil4444/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Rekhapatil4444/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Rekhapatil4444/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rekhapatil4444/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Rekhapatil4444/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0940-fruit-into-baskets](https://github.com/Rekhapatil4444/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/Rekhapatil4444/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Rekhapatil4444/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
