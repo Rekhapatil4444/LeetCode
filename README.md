@@ -10,6 +10,7 @@
 | [0561-array-partition](https://github.com/Rekhapatil4444/LeetCode/tree/master/0561-array-partition) |
 | [0777-toeplitz-matrix](https://github.com/Rekhapatil4444/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0940-fruit-into-baskets](https://github.com/Rekhapatil4444/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Rekhapatil4444/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Rekhapatil4444/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Rekhapatil4444/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Rekhapatil4444/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -38,6 +39,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rekhapatil4444/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Rekhapatil4444/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0940-fruit-into-baskets](https://github.com/Rekhapatil4444/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Rekhapatil4444/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Rekhapatil4444/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Rekhapatil4444/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## String
@@ -54,6 +56,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Rekhapatil4444/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Rekhapatil4444/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0940-fruit-into-baskets](https://github.com/Rekhapatil4444/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Rekhapatil4444/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Rekhapatil4444/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Rekhapatil4444/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Rekhapatil4444/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -63,6 +66,7 @@
 ## Counting
 |  |
 | ------- |
+| [1034-subarrays-with-k-different-integers](https://github.com/Rekhapatil4444/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Rekhapatil4444/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Sorting
 |  |
