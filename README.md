@@ -88,6 +88,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rekhapatil4444/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rekhapatil4444/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/Rekhapatil4444/LeetCode/tree/master/0278-first-bad-version) |
 | [0792-binary-search](https://github.com/Rekhapatil4444/LeetCode/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/Rekhapatil4444/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Rekhapatil4444/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
@@ -107,4 +108,8 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Rekhapatil4444/LeetCode/tree/master/0561-array-partition) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Rekhapatil4444/LeetCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
