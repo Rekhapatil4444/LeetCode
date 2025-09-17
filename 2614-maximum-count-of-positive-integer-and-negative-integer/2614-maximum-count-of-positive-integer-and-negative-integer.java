@@ -1,23 +1,23 @@
 class Solution {
-    public int maximumCount(int[] nums) {
-        ArrayList<Integer>hr=new ArrayList<>();
-      int ans=0;
-      int k=0;
-      int p=0;
-      int c=0;
-      for(int i=0;i<nums.length;i++){
-        int n=nums[i];
-        if(n==0){
-             c=0;
-        }
-        else if(n<0){
-            k++;
-        }
-        else{
-            p++;
-        }
-        ans=Math.max(k,p);
-      }
-      return ans;
+    public int left(int nums[],int target){
+     int l=0;
+     int r=nums.length-1;
+     while(l<=r)
+     {
+         int mid=l+(r-l)/2;
+         if(nums[mid]>=target){
+            r=mid-1;
+         }
+         else{
+            l=mid+1;
+         }
+     }
+     return l;
     }
+     public  int maximumCount(int nums[]){
+        int neg=left(nums,0);
+        int one=left(nums,1);
+        int pos=nums.length-one;
+        return Math.max(neg,pos);
+     }
 }
