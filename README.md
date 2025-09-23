@@ -21,6 +21,7 @@
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Rekhapatil4444/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Rekhapatil4444/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Rekhapatil4444/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Rekhapatil4444/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Rekhapatil4444/LeetCode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Rekhapatil4444/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Dynamic Programming
@@ -85,6 +86,7 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Rekhapatil4444/LeetCode/tree/master/0561-array-partition) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Rekhapatil4444/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Rekhapatil4444/LeetCode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 ## Binary Search
 |  |
@@ -98,6 +100,7 @@
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Rekhapatil4444/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Rekhapatil4444/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Rekhapatil4444/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Rekhapatil4444/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Rekhapatil4444/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Prefix Sum
 |  |
