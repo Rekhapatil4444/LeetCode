@@ -8,6 +8,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rekhapatil4444/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Rekhapatil4444/LeetCode/tree/master/0118-pascals-triangle) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rekhapatil4444/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0410-split-array-largest-sum](https://github.com/Rekhapatil4444/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0561-array-partition](https://github.com/Rekhapatil4444/LeetCode/tree/master/0561-array-partition) |
 | [0777-toeplitz-matrix](https://github.com/Rekhapatil4444/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/Rekhapatil4444/LeetCode/tree/master/0792-binary-search) |
@@ -31,6 +32,7 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Rekhapatil4444/LeetCode/tree/master/0118-pascals-triangle) |
+| [0410-split-array-largest-sum](https://github.com/Rekhapatil4444/LeetCode/tree/master/0410-split-array-largest-sum) |
 ## Matrix
 |  |
 | ------- |
@@ -89,6 +91,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Rekhapatil4444/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0561-array-partition](https://github.com/Rekhapatil4444/LeetCode/tree/master/0561-array-partition) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Rekhapatil4444/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Rekhapatil4444/LeetCode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
@@ -98,6 +101,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rekhapatil4444/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rekhapatil4444/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/Rekhapatil4444/LeetCode/tree/master/0278-first-bad-version) |
+| [0410-split-array-largest-sum](https://github.com/Rekhapatil4444/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0792-binary-search](https://github.com/Rekhapatil4444/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Rekhapatil4444/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/Rekhapatil4444/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -113,6 +117,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Rekhapatil4444/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0410-split-array-largest-sum](https://github.com/Rekhapatil4444/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Rekhapatil4444/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Rekhapatil4444/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Rekhapatil4444/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
