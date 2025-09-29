@@ -1,12 +1,13 @@
 class Solution {
     public  boolean small(int []nums,int threshold,int k){
+        int temp=0;
         for(int i=0;i<nums.length;i++){
             int upper=nums[i]/k;
             if(nums[i]%k!=0){
                 upper++;
             }
-            threshold-=upper;
-            if(threshold<0){
+            temp+=upper;
+            if(temp>threshold){
                 return false;
             }
             
