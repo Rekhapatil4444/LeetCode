@@ -1,13 +1,14 @@
 class Solution {
     public boolean isPossible(int n,int []quantities,int limit){
+        int ans=0;
         for(int i=0;i<quantities.length;i++){
             int val=quantities[i];
             int temp=val/limit;
             if(val%limit!=0){
                 temp++;
             }
-            n-=temp;
-            if(n<0){
+             ans+=temp;
+            if(ans>n){
                 return false;
             }
         }
