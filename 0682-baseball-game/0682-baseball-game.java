@@ -17,7 +17,7 @@ class Solution {
                 hr.pop();
             }
             else{
-                hr.push(Integer.parseInt(s));
+                hr.push(Integer.valueOf(s));
             }
         }
         int tsum=0;
