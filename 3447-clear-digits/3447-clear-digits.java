@@ -4,7 +4,7 @@ class Solution {
         String h="";
         for(int i=0;i<s.length();i++){
             char ch=s.charAt(i);
-            if(Character.isDigit(ch)){
+            if(ch>='0' && ch<='9'){
                 hr.pop();
             }
             else{
@@ -15,6 +15,7 @@ class Solution {
            for(Character c:hr){
             st.append(c);
            }
+        //    st.reverse();
            return st.toString();
         }
 }
