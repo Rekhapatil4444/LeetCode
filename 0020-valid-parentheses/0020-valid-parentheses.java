@@ -8,22 +8,17 @@ class Solution {
                 hr.push(ch1);
              }
              else{
-            
-                if(hr.isEmpty())
+                if(!hr.isEmpty() && ((ch1==')' && hr.peek()=='(')
+                ||(ch1==']' && hr.peek()=='[')||
+                (ch1=='}'&&hr.peek()=='{')))
                 {
-                    return false;
+                    hr.pop();
                 }
-                    int top=hr.pop();
-                if(ch1==')'&&top!='('||ch1==']'&&top!='['||ch1=='}'&&top!='{'){
+                else{
                     return false;
                 }
              }
         }
-             if(hr.isEmpty()){
-               return true;
-             }
-             else{
-                return false;
-             }
-        }
+             return hr.isEmpty();
+    }
 }
