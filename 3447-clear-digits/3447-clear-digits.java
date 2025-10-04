@@ -12,10 +12,10 @@ class Solution {
             }
         }
            StringBuilder st=new StringBuilder();
-           for(Character c:hr){
-            st.append(c);
-           }
-        //    st.reverse();
+         while(!hr.isEmpty()){
+            st.append(hr.pop());
+         }
+         st.reverse();
            return st.toString();
         }
 }
