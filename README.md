@@ -68,6 +68,7 @@
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Rekhapatil4444/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Rekhapatil4444/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Rekhapatil4444/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [3447-clear-digits](https://github.com/Rekhapatil4444/LeetCode/tree/master/3447-clear-digits) |
 ## Sliding Window
 |  |
 | ------- |
@@ -150,6 +151,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/Rekhapatil4444/LeetCode/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/Rekhapatil4444/LeetCode/tree/master/0682-baseball-game) |
+| [3447-clear-digits](https://github.com/Rekhapatil4444/LeetCode/tree/master/3447-clear-digits) |
 ## String Matching
 |  |
 | ------- |
@@ -163,4 +165,5 @@
 | ------- |
 | [0682-baseball-game](https://github.com/Rekhapatil4444/LeetCode/tree/master/0682-baseball-game) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Rekhapatil4444/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [3447-clear-digits](https://github.com/Rekhapatil4444/LeetCode/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
