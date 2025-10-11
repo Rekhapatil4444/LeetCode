@@ -59,6 +59,7 @@
 | [0940-fruit-into-baskets](https://github.com/Rekhapatil4444/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Rekhapatil4444/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Rekhapatil4444/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1873-longest-nice-substring](https://github.com/Rekhapatil4444/LeetCode/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Rekhapatil4444/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## String
 |  |
@@ -70,6 +71,7 @@
 | [0067-add-binary](https://github.com/Rekhapatil4444/LeetCode/tree/master/0067-add-binary) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Rekhapatil4444/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Rekhapatil4444/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1873-longest-nice-substring](https://github.com/Rekhapatil4444/LeetCode/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Rekhapatil4444/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Rekhapatil4444/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [3447-clear-digits](https://github.com/Rekhapatil4444/LeetCode/tree/master/3447-clear-digits) |
@@ -84,6 +86,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/Rekhapatil4444/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Rekhapatil4444/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Rekhapatil4444/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1873-longest-nice-substring](https://github.com/Rekhapatil4444/LeetCode/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Rekhapatil4444/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Rekhapatil4444/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Rekhapatil4444/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
@@ -151,6 +154,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Rekhapatil4444/LeetCode/tree/master/0067-add-binary) |
+| [1873-longest-nice-substring](https://github.com/Rekhapatil4444/LeetCode/tree/master/1873-longest-nice-substring) |
 ## Simulation
 |  |
 | ------- |
@@ -181,4 +185,8 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Rekhapatil4444/LeetCode/tree/master/0225-implement-stack-using-queues) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1873-longest-nice-substring](https://github.com/Rekhapatil4444/LeetCode/tree/master/1873-longest-nice-substring) |
 <!---LeetCode Topics End-->
