@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rekhapatil4444/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Rekhapatil4444/LeetCode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rekhapatil4444/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0053-maximum-subarray](https://github.com/Rekhapatil4444/LeetCode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Rekhapatil4444/LeetCode/tree/master/0118-pascals-triangle) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rekhapatil4444/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/Rekhapatil4444/LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -35,6 +36,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Rekhapatil4444/LeetCode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Rekhapatil4444/LeetCode/tree/master/0118-pascals-triangle) |
 | [0410-split-array-largest-sum](https://github.com/Rekhapatil4444/LeetCode/tree/master/0410-split-array-largest-sum) |
 ## Matrix
@@ -188,5 +190,6 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Rekhapatil4444/LeetCode/tree/master/0053-maximum-subarray) |
 | [1873-longest-nice-substring](https://github.com/Rekhapatil4444/LeetCode/tree/master/1873-longest-nice-substring) |
 <!---LeetCode Topics End-->
