@@ -50,6 +50,7 @@
 | [0009-palindrome-number](https://github.com/Rekhapatil4444/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Rekhapatil4444/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Rekhapatil4444/LeetCode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Rekhapatil4444/LeetCode/tree/master/0069-sqrtx) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Rekhapatil4444/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Rekhapatil4444/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Rekhapatil4444/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -119,6 +120,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rekhapatil4444/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/Rekhapatil4444/LeetCode/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rekhapatil4444/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/Rekhapatil4444/LeetCode/tree/master/0278-first-bad-version) |
 | [0410-split-array-largest-sum](https://github.com/Rekhapatil4444/LeetCode/tree/master/0410-split-array-largest-sum) |
