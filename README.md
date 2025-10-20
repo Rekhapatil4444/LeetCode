@@ -54,6 +54,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/Rekhapatil4444/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Rekhapatil4444/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Rekhapatil4444/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1448-maximum-69-number](https://github.com/Rekhapatil4444/LeetCode/tree/master/1448-maximum-69-number) |
 | [2383-add-two-integers](https://github.com/Rekhapatil4444/LeetCode/tree/master/2383-add-two-integers) |
 ## Hash Table
 |  |
@@ -114,6 +115,7 @@
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Rekhapatil4444/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0561-array-partition](https://github.com/Rekhapatil4444/LeetCode/tree/master/0561-array-partition) |
+| [1448-maximum-69-number](https://github.com/Rekhapatil4444/LeetCode/tree/master/1448-maximum-69-number) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Rekhapatil4444/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Rekhapatil4444/LeetCode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 ## Binary Search
