@@ -52,6 +52,7 @@
 | [0066-plus-one](https://github.com/Rekhapatil4444/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Rekhapatil4444/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Rekhapatil4444/LeetCode/tree/master/0069-sqrtx) |
+| [0263-ugly-number](https://github.com/Rekhapatil4444/LeetCode/tree/master/0263-ugly-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Rekhapatil4444/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Rekhapatil4444/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Rekhapatil4444/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
