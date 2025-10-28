@@ -36,6 +36,7 @@
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Rekhapatil4444/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Rekhapatil4444/LeetCode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Rekhapatil4444/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3226-minimum-number-game](https://github.com/Rekhapatil4444/LeetCode/tree/master/3226-minimum-number-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -116,6 +117,7 @@
 | [1675-magnetic-force-between-two-balls](https://github.com/Rekhapatil4444/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Rekhapatil4444/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Rekhapatil4444/LeetCode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [3226-minimum-number-game](https://github.com/Rekhapatil4444/LeetCode/tree/master/3226-minimum-number-game) |
 ## Greedy
 |  |
 | ------- |
@@ -177,6 +179,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/Rekhapatil4444/LeetCode/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/Rekhapatil4444/LeetCode/tree/master/0682-baseball-game) |
+| [3226-minimum-number-game](https://github.com/Rekhapatil4444/LeetCode/tree/master/3226-minimum-number-game) |
 | [3447-clear-digits](https://github.com/Rekhapatil4444/LeetCode/tree/master/3447-clear-digits) |
 ## String Matching
 |  |
@@ -211,4 +214,8 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Rekhapatil4444/LeetCode/tree/master/0231-power-of-two) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3226-minimum-number-game](https://github.com/Rekhapatil4444/LeetCode/tree/master/3226-minimum-number-game) |
 <!---LeetCode Topics End-->
