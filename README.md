@@ -56,6 +56,7 @@
 | [0069-sqrtx](https://github.com/Rekhapatil4444/LeetCode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Rekhapatil4444/LeetCode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Rekhapatil4444/LeetCode/tree/master/0263-ugly-number) |
+| [0415-add-strings](https://github.com/Rekhapatil4444/LeetCode/tree/master/0415-add-strings) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Rekhapatil4444/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Rekhapatil4444/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Rekhapatil4444/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -82,6 +83,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rekhapatil4444/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Rekhapatil4444/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Rekhapatil4444/LeetCode/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/Rekhapatil4444/LeetCode/tree/master/0415-add-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Rekhapatil4444/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Rekhapatil4444/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1873-longest-nice-substring](https://github.com/Rekhapatil4444/LeetCode/tree/master/1873-longest-nice-substring) |
@@ -178,6 +180,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Rekhapatil4444/LeetCode/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/Rekhapatil4444/LeetCode/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/Rekhapatil4444/LeetCode/tree/master/0682-baseball-game) |
 | [3226-minimum-number-game](https://github.com/Rekhapatil4444/LeetCode/tree/master/3226-minimum-number-game) |
 | [3447-clear-digits](https://github.com/Rekhapatil4444/LeetCode/tree/master/3447-clear-digits) |
