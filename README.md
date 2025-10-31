@@ -15,6 +15,7 @@
 | [0136-single-number](https://github.com/Rekhapatil4444/LeetCode/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rekhapatil4444/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Rekhapatil4444/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Rekhapatil4444/LeetCode/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/Rekhapatil4444/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0561-array-partition](https://github.com/Rekhapatil4444/LeetCode/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/Rekhapatil4444/LeetCode/tree/master/0682-baseball-game) |
@@ -56,6 +57,7 @@
 | [0069-sqrtx](https://github.com/Rekhapatil4444/LeetCode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Rekhapatil4444/LeetCode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Rekhapatil4444/LeetCode/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/Rekhapatil4444/LeetCode/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/Rekhapatil4444/LeetCode/tree/master/0415-add-strings) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Rekhapatil4444/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Rekhapatil4444/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -68,6 +70,7 @@
 | [0001-two-sum](https://github.com/Rekhapatil4444/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rekhapatil4444/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/Rekhapatil4444/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Rekhapatil4444/LeetCode/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Rekhapatil4444/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0940-fruit-into-baskets](https://github.com/Rekhapatil4444/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Rekhapatil4444/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
@@ -115,6 +118,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Rekhapatil4444/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Rekhapatil4444/LeetCode/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/Rekhapatil4444/LeetCode/tree/master/0561-array-partition) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Rekhapatil4444/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Rekhapatil4444/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -134,6 +138,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rekhapatil4444/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/Rekhapatil4444/LeetCode/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rekhapatil4444/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Rekhapatil4444/LeetCode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Rekhapatil4444/LeetCode/tree/master/0278-first-bad-version) |
 | [0410-split-array-largest-sum](https://github.com/Rekhapatil4444/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0792-binary-search](https://github.com/Rekhapatil4444/LeetCode/tree/master/0792-binary-search) |
@@ -175,6 +180,7 @@
 | [0067-add-binary](https://github.com/Rekhapatil4444/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Rekhapatil4444/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Rekhapatil4444/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Rekhapatil4444/LeetCode/tree/master/0268-missing-number) |
 | [1873-longest-nice-substring](https://github.com/Rekhapatil4444/LeetCode/tree/master/1873-longest-nice-substring) |
 ## Simulation
 |  |
