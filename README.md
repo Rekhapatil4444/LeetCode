@@ -13,6 +13,7 @@
 | [0066-plus-one](https://github.com/Rekhapatil4444/LeetCode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Rekhapatil4444/LeetCode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Rekhapatil4444/LeetCode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Rekhapatil4444/LeetCode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rekhapatil4444/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Rekhapatil4444/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Rekhapatil4444/LeetCode/tree/master/0268-missing-number) |
@@ -69,6 +70,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Rekhapatil4444/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rekhapatil4444/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/Rekhapatil4444/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rekhapatil4444/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Rekhapatil4444/LeetCode/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Rekhapatil4444/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -111,12 +113,14 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Rekhapatil4444/LeetCode/tree/master/0169-majority-element) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Rekhapatil4444/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Rekhapatil4444/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Rekhapatil4444/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Rekhapatil4444/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rekhapatil4444/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Rekhapatil4444/LeetCode/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/Rekhapatil4444/LeetCode/tree/master/0561-array-partition) |
@@ -218,6 +222,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Rekhapatil4444/LeetCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Rekhapatil4444/LeetCode/tree/master/0169-majority-element) |
 | [1873-longest-nice-substring](https://github.com/Rekhapatil4444/LeetCode/tree/master/1873-longest-nice-substring) |
 ## Recursion
 |  |
