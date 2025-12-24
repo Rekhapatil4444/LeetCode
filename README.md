@@ -18,6 +18,7 @@
 | [0217-contains-duplicate](https://github.com/Rekhapatil4444/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Rekhapatil4444/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Rekhapatil4444/LeetCode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Rekhapatil4444/LeetCode/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/Rekhapatil4444/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0561-array-partition](https://github.com/Rekhapatil4444/LeetCode/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/Rekhapatil4444/LeetCode/tree/master/0682-baseball-game) |
@@ -173,6 +174,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rekhapatil4444/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Rekhapatil4444/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rekhapatil4444/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0283-move-zeroes](https://github.com/Rekhapatil4444/LeetCode/tree/master/0283-move-zeroes) |
 ## Counting Sort
 |  |
 | ------- |
