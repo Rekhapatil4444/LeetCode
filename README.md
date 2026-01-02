@@ -21,6 +21,7 @@
 | [0283-move-zeroes](https://github.com/Rekhapatil4444/LeetCode/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/Rekhapatil4444/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/Rekhapatil4444/LeetCode/tree/master/0414-third-maximum-number) |
+| [0485-max-consecutive-ones](https://github.com/Rekhapatil4444/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/Rekhapatil4444/LeetCode/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/Rekhapatil4444/LeetCode/tree/master/0682-baseball-game) |
 | [0777-toeplitz-matrix](https://github.com/Rekhapatil4444/LeetCode/tree/master/0777-toeplitz-matrix) |
