@@ -19,6 +19,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Rekhapatil4444/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Rekhapatil4444/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Rekhapatil4444/LeetCode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Rekhapatil4444/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Rekhapatil4444/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/Rekhapatil4444/LeetCode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Rekhapatil4444/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -79,6 +80,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Rekhapatil4444/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Rekhapatil4444/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Rekhapatil4444/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Rekhapatil4444/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Rekhapatil4444/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0940-fruit-into-baskets](https://github.com/Rekhapatil4444/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Rekhapatil4444/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
@@ -132,6 +134,7 @@
 | [0217-contains-duplicate](https://github.com/Rekhapatil4444/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Rekhapatil4444/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Rekhapatil4444/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Rekhapatil4444/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Rekhapatil4444/LeetCode/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Rekhapatil4444/LeetCode/tree/master/0561-array-partition) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Rekhapatil4444/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
@@ -154,6 +157,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Rekhapatil4444/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Rekhapatil4444/LeetCode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Rekhapatil4444/LeetCode/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/Rekhapatil4444/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Rekhapatil4444/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0792-binary-search](https://github.com/Rekhapatil4444/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Rekhapatil4444/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -181,6 +185,7 @@
 | [0027-remove-element](https://github.com/Rekhapatil4444/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rekhapatil4444/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0283-move-zeroes](https://github.com/Rekhapatil4444/LeetCode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Rekhapatil4444/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Counting Sort
 |  |
 | ------- |
