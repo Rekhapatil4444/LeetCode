@@ -62,6 +62,7 @@
 | [0067-add-binary](https://github.com/Rekhapatil4444/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Rekhapatil4444/LeetCode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Rekhapatil4444/LeetCode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Rekhapatil4444/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Rekhapatil4444/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Rekhapatil4444/LeetCode/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/Rekhapatil4444/LeetCode/tree/master/0415-add-strings) |
@@ -206,6 +207,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Rekhapatil4444/LeetCode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Rekhapatil4444/LeetCode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Rekhapatil4444/LeetCode/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/Rekhapatil4444/LeetCode/tree/master/0682-baseball-game) |
 | [3226-minimum-number-game](https://github.com/Rekhapatil4444/LeetCode/tree/master/3226-minimum-number-game) |
@@ -248,4 +250,8 @@
 |  |
 | ------- |
 | [3226-minimum-number-game](https://github.com/Rekhapatil4444/LeetCode/tree/master/3226-minimum-number-game) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Rekhapatil4444/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
