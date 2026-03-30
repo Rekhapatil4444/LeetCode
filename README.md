@@ -10,6 +10,7 @@
 | [0027-remove-element](https://github.com/Rekhapatil4444/LeetCode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rekhapatil4444/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rekhapatil4444/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0037-sudoku-solver](https://github.com/Rekhapatil4444/LeetCode/tree/master/0037-sudoku-solver) |
 | [0053-maximum-subarray](https://github.com/Rekhapatil4444/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Rekhapatil4444/LeetCode/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rekhapatil4444/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -55,6 +56,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Rekhapatil4444/LeetCode/tree/master/0037-sudoku-solver) |
 | [0777-toeplitz-matrix](https://github.com/Rekhapatil4444/LeetCode/tree/master/0777-toeplitz-matrix) |
 ## Math
 |  |
@@ -78,6 +80,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Rekhapatil4444/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rekhapatil4444/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/Rekhapatil4444/LeetCode/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/Rekhapatil4444/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rekhapatil4444/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Rekhapatil4444/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -258,4 +261,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Rekhapatil4444/LeetCode/tree/master/0258-add-digits) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Rekhapatil4444/LeetCode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
