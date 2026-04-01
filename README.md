@@ -21,6 +21,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Rekhapatil4444/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Rekhapatil4444/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Rekhapatil4444/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Rekhapatil4444/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Rekhapatil4444/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Rekhapatil4444/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Rekhapatil4444/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -85,6 +86,7 @@
 | [0169-majority-element](https://github.com/Rekhapatil4444/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rekhapatil4444/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Rekhapatil4444/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Rekhapatil4444/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Rekhapatil4444/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Rekhapatil4444/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Rekhapatil4444/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -131,6 +133,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Rekhapatil4444/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Rekhapatil4444/LeetCode/tree/master/0229-majority-element-ii) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Rekhapatil4444/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Rekhapatil4444/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Rekhapatil4444/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -139,6 +142,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Rekhapatil4444/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rekhapatil4444/LeetCode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Rekhapatil4444/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Rekhapatil4444/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Rekhapatil4444/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Rekhapatil4444/LeetCode/tree/master/0349-intersection-of-two-arrays) |
