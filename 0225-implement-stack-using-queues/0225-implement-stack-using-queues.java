@@ -14,7 +14,7 @@ Queue<Integer> q;
     }
     
     public int pop() {
-        return q.remove();
+        return q.poll();
     }
     
     public int top() {
