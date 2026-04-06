@@ -48,6 +48,7 @@
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Rekhapatil4444/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Rekhapatil4444/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Rekhapatil4444/LeetCode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [2404-most-frequent-even-element](https://github.com/Rekhapatil4444/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Rekhapatil4444/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3226-minimum-number-game](https://github.com/Rekhapatil4444/LeetCode/tree/master/3226-minimum-number-game) |
 ## Dynamic Programming
@@ -98,6 +99,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/Rekhapatil4444/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1873-longest-nice-substring](https://github.com/Rekhapatil4444/LeetCode/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Rekhapatil4444/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2404-most-frequent-even-element](https://github.com/Rekhapatil4444/LeetCode/tree/master/2404-most-frequent-even-element) |
 ## String
 |  |
 | ------- |
@@ -143,6 +145,7 @@
 | [0819-most-common-word](https://github.com/Rekhapatil4444/LeetCode/tree/master/0819-most-common-word) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Rekhapatil4444/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Rekhapatil4444/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2404-most-frequent-even-element](https://github.com/Rekhapatil4444/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Rekhapatil4444/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sorting
 |  |
