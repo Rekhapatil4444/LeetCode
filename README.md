@@ -29,6 +29,7 @@
 | [0410-split-array-largest-sum](https://github.com/Rekhapatil4444/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/Rekhapatil4444/LeetCode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Rekhapatil4444/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0503-next-greater-element-ii](https://github.com/Rekhapatil4444/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0561-array-partition](https://github.com/Rekhapatil4444/LeetCode/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/Rekhapatil4444/LeetCode/tree/master/0682-baseball-game) |
 | [0777-toeplitz-matrix](https://github.com/Rekhapatil4444/LeetCode/tree/master/0777-toeplitz-matrix) |
@@ -254,6 +255,7 @@
 | [0155-min-stack](https://github.com/Rekhapatil4444/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Rekhapatil4444/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Rekhapatil4444/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0503-next-greater-element-ii](https://github.com/Rekhapatil4444/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Rekhapatil4444/LeetCode/tree/master/0682-baseball-game) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Rekhapatil4444/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [3447-clear-digits](https://github.com/Rekhapatil4444/LeetCode/tree/master/3447-clear-digits) |
@@ -292,4 +294,8 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/Rekhapatil4444/LeetCode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Rekhapatil4444/LeetCode/tree/master/0051-n-queens) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/Rekhapatil4444/LeetCode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
