@@ -12,6 +12,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Rekhapatil4444/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rekhapatil4444/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0037-sudoku-solver](https://github.com/Rekhapatil4444/LeetCode/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/Rekhapatil4444/LeetCode/tree/master/0041-first-missing-positive) |
 | [0051-n-queens](https://github.com/Rekhapatil4444/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Rekhapatil4444/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Rekhapatil4444/LeetCode/tree/master/0066-plus-one) |
@@ -90,6 +91,7 @@
 | [0001-two-sum](https://github.com/Rekhapatil4444/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rekhapatil4444/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/Rekhapatil4444/LeetCode/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/Rekhapatil4444/LeetCode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Rekhapatil4444/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rekhapatil4444/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Rekhapatil4444/LeetCode/tree/master/0219-contains-duplicate-ii) |
