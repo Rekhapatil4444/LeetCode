@@ -75,6 +75,7 @@
 | [0066-plus-one](https://github.com/Rekhapatil4444/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Rekhapatil4444/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Rekhapatil4444/LeetCode/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/Rekhapatil4444/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Rekhapatil4444/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Rekhapatil4444/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Rekhapatil4444/LeetCode/tree/master/0263-ugly-number) |
@@ -93,6 +94,7 @@
 | [0037-sudoku-solver](https://github.com/Rekhapatil4444/LeetCode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Rekhapatil4444/LeetCode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Rekhapatil4444/LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Rekhapatil4444/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Rekhapatil4444/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Rekhapatil4444/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Rekhapatil4444/LeetCode/tree/master/0229-majority-element-ii) |
@@ -216,6 +218,7 @@
 | [0027-remove-element](https://github.com/Rekhapatil4444/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rekhapatil4444/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Rekhapatil4444/LeetCode/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/Rekhapatil4444/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Rekhapatil4444/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Rekhapatil4444/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Rekhapatil4444/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
