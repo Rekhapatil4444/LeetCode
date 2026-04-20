@@ -88,6 +88,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Rekhapatil4444/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Rekhapatil4444/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Rekhapatil4444/LeetCode/tree/master/1448-maximum-69-number) |
+| [1952-three-divisors](https://github.com/Rekhapatil4444/LeetCode/tree/master/1952-three-divisors) |
 | [2383-add-two-integers](https://github.com/Rekhapatil4444/LeetCode/tree/master/2383-add-two-integers) |
 ## Hash Table
 |  |
@@ -306,6 +307,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Rekhapatil4444/LeetCode/tree/master/0258-add-digits) |
+| [1952-three-divisors](https://github.com/Rekhapatil4444/LeetCode/tree/master/1952-three-divisors) |
 ## Backtracking
 |  |
 | ------- |
@@ -317,4 +319,8 @@
 | [0503-next-greater-element-ii](https://github.com/Rekhapatil4444/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Rekhapatil4444/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Rekhapatil4444/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Rekhapatil4444/LeetCode/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
