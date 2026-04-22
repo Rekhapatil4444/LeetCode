@@ -128,6 +128,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Rekhapatil4444/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0415-add-strings](https://github.com/Rekhapatil4444/LeetCode/tree/master/0415-add-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Rekhapatil4444/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0520-detect-capital](https://github.com/Rekhapatil4444/LeetCode/tree/master/0520-detect-capital) |
 | [0819-most-common-word](https://github.com/Rekhapatil4444/LeetCode/tree/master/0819-most-common-word) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Rekhapatil4444/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1873-longest-nice-substring](https://github.com/Rekhapatil4444/LeetCode/tree/master/1873-longest-nice-substring) |
