@@ -329,4 +329,16 @@
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/Rekhapatil4444/LeetCode/tree/master/1952-three-divisors) |
+## Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/Rekhapatil4444/LeetCode/tree/master/0450-delete-node-in-a-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/Rekhapatil4444/LeetCode/tree/master/0450-delete-node-in-a-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/Rekhapatil4444/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
